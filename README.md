@@ -7,3 +7,6 @@ If you don't understand what a line of code does, please read the comment (EG: #
 (Feel free to copy paste this code or show it in your videos because this code has no copyright ;D )
 
 TᕼᗩᑎK YOᑌ
+
+ꜱɪɴᴄᴇʀᴇʟʏ, 
+ᴠɪʀᴛᴜᴀʟᴛʜᴜɢ9
