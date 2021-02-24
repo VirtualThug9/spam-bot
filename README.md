@@ -1,7 +1,7 @@
 ██▓▒­░⡷⠂𝚆𝙴𝙻𝙲𝙾𝙼𝙴⠐⢾░▒▓██
 
 This is the README of Spam-bot. This is the spambot project made using python and pyautogui for the tutorial video on how to make a spambot.
-You can check that out here - 
+You can check that out here - https://youtu.be/xXAI2R7Ueeo
 
 If you don't understand what a line of code does, please read the comment (Comments are started with a Hashtag(#) - EG: # this is a comment).
 
